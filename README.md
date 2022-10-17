@@ -1,4 +1,4 @@
-# my-profile
+# Jaimin-Solanki-profile
 # 💫 About Me:
 I'm currently working as Full Stack Developer<br>Ask  me about #javascript #aws
 
